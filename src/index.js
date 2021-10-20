@@ -2,8 +2,8 @@
 
 // Arreglos en JS
 // const arreglo = new Array( 100 );
-const arreglo = ["wilfer","juan pablo","daniel","anderson"];
-console.log(arreglo[3])
+const arreglo = ["wilfer","juan pablo","Daniel Rios","anderson"];
+console.log(arreglo[2])
 // arreglo.push(1)
 // arreglo.push(2)
 // arreglo.push(3)
