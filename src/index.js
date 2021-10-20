@@ -8,6 +8,7 @@ console.log(arreglo[3])
 // arreglo.push(2)
 // arreglo.push(3)
 // arreglo.push(4)
+// arreglo.push(5)
 
 //console.log(arreglo)
 
